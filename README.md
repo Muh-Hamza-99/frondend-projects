@@ -1,4 +1,4 @@
-# ⚛ frontend-projects
+# ⚛ react-projects
 
 ## 📃 Description:
 A collection of frontend projects made using React.js, Material-UI and Chart.js.
